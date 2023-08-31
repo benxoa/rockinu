@@ -1,0 +1,54 @@
+.home {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 2.06rem;
+  right: 50.44rem;
+  font-size: 5.06rem;
+  font-family: Jomhuria;
+  color: #fff;
+  text-align: left;
+  display: inline-block;
+  width: 7.75rem;
+  height: 2.94rem;
+}
+.about {
+  top: 2.06rem;
+  right: 38.38rem;
+  width: 9.5rem;
+}
+.about,
+.community,
+.tokenomics {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  font-size: 5.06rem;
+  font-family: Jomhuria;
+  color: #fff;
+  text-align: left;
+  display: inline-block;
+  height: 2.94rem;
+}
+.tokenomics {
+  top: 1.88rem;
+  right: 18.63rem;
+  width: 17.25rem;
+}
+.community {
+  top: 2.06rem;
+  right: 0;
+  width: 16.13rem;
+}
+.navbar {
+  margin: 0;
+  position: absolute;
+  top: 0.56rem;
+  right: 2.63rem;
+  width: 80.19rem;
+  height: 10.13rem;
+}

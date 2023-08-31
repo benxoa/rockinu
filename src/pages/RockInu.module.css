@@ -1,0 +1,569 @@
+.copyright2023 {
+  position: absolute;
+  top: calc(50% + 3198px);
+  left: calc(50% - 375px);
+  font-size: 2rem;
+  display: inline-block;
+  width: 48.88rem;
+  height: 2.13rem;
+}
+.about,
+.blockExplorer,
+.community,
+.home,
+.tokenomics,
+.whitepaper {
+  text-decoration: none;
+  position: absolute;
+  top: calc(50% + 3065px);
+  left: calc(50% - 395px);
+  font-size: 1.25rem;
+  letter-spacing: -0.02em;
+  line-height: 107.4%;
+  color: inherit;
+  display: inline-block;
+  width: 3.63rem;
+  height: 1.31rem;
+}
+.about,
+.blockExplorer,
+.community,
+.tokenomics,
+.whitepaper {
+  left: calc(50% - 307px);
+  width: 3.94rem;
+}
+.blockExplorer,
+.community,
+.tokenomics,
+.whitepaper {
+  left: calc(50% - 212px);
+  text-decoration: underline;
+  width: 7.88rem;
+}
+.blockExplorer,
+.community,
+.tokenomics {
+  left: calc(50% - 56px);
+  width: 10.13rem;
+}
+.community,
+.tokenomics {
+  text-decoration: none;
+  left: calc(50% + 136px);
+  width: 7.25rem;
+}
+.tokenomics {
+  top: calc(50% + 3061px);
+  left: calc(50% + 284px);
+  width: 7.31rem;
+}
+.rockInuChild {
+  position: absolute;
+  top: calc(50% + 2833px);
+  left: calc(50% + 248px);
+  border-radius: 87px;
+  background-color: #fff;
+  width: 17.06rem;
+  height: 5.44rem;
+}
+.icons8TelegramApp482 {
+  position: absolute;
+  top: calc(50% + 2853px);
+  left: calc(50% + 261px);
+  width: 2.75rem;
+  height: 3.19rem;
+  object-fit: cover;
+}
+.itsTimeTo {
+  margin: 0;
+}
+.contactUs,
+.itsTimeToContainer,
+.rockinucoingmialcom {
+  position: absolute;
+  top: calc(50% + 2691px);
+  left: calc(50% - 317px);
+  font-size: 1.5rem;
+  font-family: "Holtwood One SC";
+  display: inline-block;
+  width: 26.38rem;
+  height: 16.94rem;
+}
+.contactUs,
+.rockinucoingmialcom {
+  top: calc(50% + 2677px);
+  left: calc(50% + 258px);
+  font-size: 3rem;
+  font-family: "Jockey One";
+  width: 19.25rem;
+  height: 3.44rem;
+}
+.rockinucoingmialcom {
+  top: calc(50% + 2765px);
+  font-size: 1.5rem;
+  font-family: "JetBrains Mono";
+  width: 17.63rem;
+  height: 4.38rem;
+}
+.n2Icon {
+  position: absolute;
+  top: calc(50% + 2720px);
+  left: calc(50% - 580px);
+  width: 16.25rem;
+  height: 14.88rem;
+  object-fit: cover;
+}
+.telegram,
+.tokenomics1 {
+  position: absolute;
+  display: inline-block;
+}
+.telegram {
+  top: calc(50% + 2859px);
+  left: calc(50% + 322px);
+  font-size: 2rem;
+  text-decoration: underline;
+  color: #464646;
+  width: 11.31rem;
+  height: 2.38rem;
+}
+.tokenomics1 {
+  height: calc(100% - 6379px);
+  top: 233.75rem;
+  left: calc(50% - 643px);
+  font-size: 6rem;
+  width: 44.5rem;
+}
+.rockInuInner,
+.rockInuItem {
+  position: absolute;
+  top: calc(50% + 632px);
+  left: calc(50% - 611px);
+  border-radius: 25px;
+  width: 77.56rem;
+  height: 42.94rem;
+}
+.rockInuInner {
+  top: calc(50% + 1387px);
+  left: calc(50% - 608px);
+  height: 42.88rem;
+}
+.lineIcon,
+.rockInuChild1 {
+  position: absolute;
+  top: calc(50% + 779.29px);
+  left: calc(50% - 606.26px);
+  width: 77.37rem;
+  height: 0.31rem;
+}
+.rockInuChild1 {
+  top: calc(50% + 1534.24px);
+  left: calc(50% - 597.74px);
+}
+.rockInuChild2,
+.rockInuChild3,
+.supply,
+.token {
+  position: absolute;
+  top: calc(50% + 1265.96px);
+  left: calc(50% - 597.74px);
+  width: 76.25rem;
+  height: 0.14rem;
+}
+.rockInuChild3,
+.supply,
+.token {
+  top: calc(50% + 2020.91px);
+  left: calc(50% - 589.23px);
+}
+.supply,
+.token {
+  top: calc(50% + 654px);
+  left: calc(50% - 72px);
+  font-size: 5.06rem;
+  display: inline-block;
+  width: 20.94rem;
+  height: 8.19rem;
+}
+.token {
+  top: calc(50% + 1409px);
+  left: calc(50% - 65px);
+  width: 17.5rem;
+}
+.maxSupply276600000000 {
+  top: calc(50% + 866px);
+  left: calc(50% - 536px);
+  width: 33.25rem;
+  height: 3rem;
+}
+.community41,
+.maxSupply276600000000,
+.tokenNameRock {
+  position: absolute;
+  font-family: "Gemunu Libre";
+  display: inline-block;
+}
+.tokenNameRock {
+  top: calc(50% + 1582px);
+  left: calc(50% - 546px);
+  text-align: center;
+  width: 69.19rem;
+  height: 2.75rem;
+}
+.community41 {
+  top: calc(50% + 862px);
+  left: calc(50% + 37px);
+  width: 35.5rem;
+  height: 4.88rem;
+}
+.initialSupply6000000000 {
+  top: calc(50% + 966px);
+  left: calc(50% - 532px);
+  width: 33rem;
+  height: 2.69rem;
+}
+.blockchainBnb,
+.initialSupply6000000000,
+.maxBurn55320000000,
+.persale28,
+.symbolRock {
+  position: absolute;
+  font-family: "Gemunu Libre";
+  display: inline-block;
+}
+.symbolRock {
+  top: calc(50% + 1684px);
+  left: calc(50% - 530px);
+  text-align: center;
+  width: 67.56rem;
+  height: 2.69rem;
+}
+.blockchainBnb,
+.maxBurn55320000000,
+.persale28 {
+  top: calc(50% + 956px);
+  left: calc(50% + 44px);
+  width: 34.69rem;
+  height: 2.75rem;
+}
+.blockchainBnb,
+.maxBurn55320000000 {
+  top: calc(50% + 1067px);
+  left: calc(50% - 532px);
+  width: 33rem;
+}
+.blockchainBnb {
+  top: calc(50% + 1787px);
+  left: calc(50% - 530px);
+  text-align: center;
+  width: 67.56rem;
+  height: 2.69rem;
+}
+.devs11 {
+  top: calc(50% + 1062px);
+  left: calc(50% + 44px);
+  width: 34.69rem;
+  height: 2.75rem;
+}
+.circulatingSupply60000000,
+.devs11,
+.ecosystem20,
+.tax0 {
+  position: absolute;
+  font-family: "Gemunu Libre";
+  display: inline-block;
+}
+.circulatingSupply60000000 {
+  top: calc(50% + 1175px);
+  left: calc(50% - 536px);
+  width: 32.88rem;
+  height: 4.38rem;
+}
+.ecosystem20,
+.tax0 {
+  height: 2.69rem;
+}
+.tax0 {
+  top: calc(50% + 1891px);
+  left: calc(50% - 530px);
+  text-align: center;
+  width: 67.56rem;
+}
+.ecosystem20 {
+  top: calc(50% + 1167px);
+  left: calc(50% + 37px);
+  width: 34.81rem;
+}
+.rockInuChild4,
+.rockInuChild5,
+.rockInuChild6 {
+  position: absolute;
+  top: calc(50% + 906.35px);
+  left: calc(50% - 531.79px);
+  width: 29.76rem;
+  height: 0.41rem;
+}
+.rockInuChild5,
+.rockInuChild6 {
+  top: calc(50% + 1634.25px);
+  left: calc(50% - 571.27px);
+  width: 72.93rem;
+}
+.rockInuChild6 {
+  top: calc(50% + 906.35px);
+  left: calc(50% + 32.03px);
+  width: 31.37rem;
+}
+.lineDiv,
+.rockInuChild7,
+.rockInuChild8,
+.rockInuChild9 {
+  position: absolute;
+  top: calc(50% + 1010px);
+  left: calc(50% - 534px);
+  border-top: 4px solid #fff;
+  box-sizing: border-box;
+  width: 30rem;
+  height: 0.25rem;
+}
+.rockInuChild7,
+.rockInuChild8,
+.rockInuChild9 {
+  top: calc(50% + 1741px);
+  left: calc(50% - 573px);
+  width: 73.19rem;
+}
+.rockInuChild8,
+.rockInuChild9 {
+  top: calc(50% + 1014px);
+  left: calc(50% + 30px);
+  width: 31.63rem;
+}
+.rockInuChild9 {
+  top: calc(50% + 1116px);
+  left: calc(50% - 534px);
+  width: 30.06rem;
+}
+.rockInuChild10,
+.rockInuChild11,
+.rockInuChild12,
+.rockInuChild13,
+.rockInuChild14 {
+  position: absolute;
+  top: calc(50% + 1845px);
+  left: calc(50% - 573px);
+  border-top: 4px solid #fff;
+  box-sizing: border-box;
+  width: 73.19rem;
+  height: 0.25rem;
+}
+.rockInuChild11,
+.rockInuChild12,
+.rockInuChild13,
+.rockInuChild14 {
+  top: calc(50% + 1946px);
+}
+.rockInuChild12,
+.rockInuChild13,
+.rockInuChild14 {
+  top: calc(50% + 1116px);
+  left: calc(50% + 30px);
+  width: 31.63rem;
+}
+.rockInuChild13,
+.rockInuChild14 {
+  top: calc(50% + 1216px);
+  left: calc(50% - 534px);
+  width: 30rem;
+}
+.rockInuChild14 {
+  top: calc(50% + 1219px);
+  left: calc(50% + 30px);
+  width: 31.63rem;
+}
+.x03103dc7aa723d2420d6f0f605b63 {
+  position: absolute;
+  top: calc(50% + 2233px);
+  left: calc(50% - 392px);
+  font-size: 2.5rem;
+  font-family: "JetBrains Mono";
+  text-align: center;
+  display: inline-block;
+  width: 53.31rem;
+  height: 6.06rem;
+}
+.community1 {
+  position: absolute;
+  top: calc(50% + 2407px);
+  left: calc(50% - 211px);
+  font-size: 5.06rem;
+  display: inline-block;
+  width: 39.69rem;
+  height: 7.31rem;
+}
+.rectangleDiv,
+.rockInuChild15 {
+  position: absolute;
+  top: calc(50% + 2557px);
+  left: calc(50% - 456px);
+  border-radius: 87px;
+  background-color: #fff;
+  width: 17.69rem;
+  height: 5.38rem;
+}
+.rockInuChild15 {
+  top: calc(50% + 2560px);
+  left: calc(50% + 159px);
+  height: 5.44rem;
+}
+.icons8Twitter481 {
+  left: calc(50% - 428px);
+  border-radius: 87px;
+  width: 2.88rem;
+  height: 3.19rem;
+  object-fit: cover;
+}
+.icons8TelegramApp481,
+.icons8Twitter481,
+.telegram1,
+.x {
+  position: absolute;
+  top: calc(50% + 2578px);
+}
+.icons8TelegramApp481 {
+  left: calc(50% + 170px);
+  width: 2.94rem;
+  height: 3.19rem;
+  object-fit: cover;
+}
+.telegram1,
+.x {
+  left: calc(50% - 332px);
+  font-size: 2rem;
+  text-decoration: underline;
+  color: #464646;
+  display: inline-block;
+  width: 9.88rem;
+  height: 2.38rem;
+}
+.telegram1 {
+  left: calc(50% + 230px);
+  width: 12.13rem;
+}
+.about1,
+.aboutRockInuContainer,
+.joinUs {
+  position: absolute;
+  top: calc(50% + 2574px);
+  left: calc(50% - 76px);
+  font-size: 2.5rem;
+  display: inline-block;
+  width: 14.69rem;
+  height: 3.44rem;
+}
+.about1,
+.aboutRockInuContainer {
+  top: calc(50% - 2182px);
+  left: calc(50% - 600px);
+  font-size: 6rem;
+  width: 23.81rem;
+  height: 7.31rem;
+}
+.aboutRockInuContainer {
+  top: calc(50% - 2006px);
+  font-size: 2rem;
+  font-family: Gugi;
+  width: 65.94rem;
+  height: 154.38rem;
+}
+.contractAddress {
+  position: absolute;
+  top: calc(50% + 2123px);
+  left: calc(50% - 276px);
+  font-size: 4rem;
+  display: inline-block;
+  width: 40rem;
+  height: 4.69rem;
+}
+.rockInu1 {
+  position: relative;
+  font-size: 6rem;
+  font-family: "Joti One";
+  width: 28.51rem;
+  height: 9.25rem;
+  z-index: 0;
+}
+.buyNow,
+.itsTimeToContainer1,
+.rockInu1 {
+  display: inline-block;
+  flex-shrink: 0;
+}
+.itsTimeToContainer1 {
+  align-self: stretch;
+  position: relative;
+  height: 16.75rem;
+  z-index: 1;
+}
+.buyNow {
+  position: absolute;
+  margin: 0 !important;
+  top: calc(50% + 192.5px);
+  left: calc(50% - 210.67px);
+  text-decoration: underline;
+  color: #ffcb8e;
+  width: 10.98rem;
+  height: 2.48rem;
+  z-index: 2;
+}
+.rockInuParent {
+  position: absolute;
+  width: 37.17%;
+  top: 24rem;
+  right: 58.06%;
+  left: 4.77%;
+  height: 26.06rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0.25rem;
+  font-size: 1.5rem;
+  font-family: "Holtwood One SC";
+}
+.n1Icon,
+.n2Icon1 {
+  position: absolute;
+  object-fit: cover;
+}
+.n1Icon {
+  top: 21.5rem;
+  right: 3.44rem;
+  width: 40.63rem;
+  height: 33.31rem;
+}
+.n2Icon1 {
+  top: 0;
+  left: 2.31rem;
+  width: 16.63rem;
+  height: 13.38rem;
+}
+.rockInu {
+  position: relative;
+  background-color: #ffcb8e;
+  width: 100%;
+  height: 405.63rem;
+  overflow: hidden;
+  animation-fill-mode: both;
+  text-align: left;
+  font-size: 2.25rem;
+  color: #fff;
+  font-family: "Joti One";
+}
+@media screen and (max-width: 1200px) {
+  .rockInu {
+    width: 1440rem;
+    height: 6462rem;
+  }
+}
