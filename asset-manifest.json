@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rockinucoinm/static/css/main.fae8ae9f.css",
+    "main.js": "/rockinucoinm/static/js/main.62850039.js",
+    "index.html": "/rockinucoinm/index.html",
+    "main.fae8ae9f.css.map": "/rockinucoinm/static/css/main.fae8ae9f.css.map",
+    "main.62850039.js.map": "/rockinucoinm/static/js/main.62850039.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fae8ae9f.css",
+    "static/js/main.62850039.js"
+  ]
+}
