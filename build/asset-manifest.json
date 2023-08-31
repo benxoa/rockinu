@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rockinu/static/css/main.fae8ae9f.css",
+    "main.js": "/rockinu/static/js/main.f3bc3cd5.js",
+    "index.html": "/rockinu/index.html",
+    "main.fae8ae9f.css.map": "/rockinu/static/css/main.fae8ae9f.css.map",
+    "main.f3bc3cd5.js.map": "/rockinu/static/js/main.f3bc3cd5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fae8ae9f.css",
+    "static/js/main.f3bc3cd5.js"
+  ]
+}
